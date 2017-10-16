@@ -1,7 +1,7 @@
 # Shell Scripts
 Repository of shell scripts created for work or fun(?).
 
-## <s>exec_sql_all_dbs.sh</s> --> This script has been substituted by the more flexible and fail preprade python script: <a href=https://github.com/davidwfranco/learn-python/blob/master/NotTutorialRelated/execSql.py>execSql.py</a>
+## <s>exec_sql_all_dbs.sh</s> --> This script has been substituted by the more flexible and fail proof python script: <a href=https://github.com/davidwfranco/learn-python/blob/master/NotTutorialRelated/execSql.py>execSql.py</a>
 Run a sql script in each oracle instance of a server, sometimes when you have some rac, or other stuff with a lot of instances in it, it's a chore to enter in each one to do something, so as a lazy person that i am i would not leave it like that...
 
 --> Instructions
